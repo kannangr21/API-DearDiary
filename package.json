@@ -1,0 +1,23 @@
+{
+  "dependencies": {
+    "bcrypt": "^5.0.1",
+    "dotenv": "^16.0.0",
+    "express": "^4.17.2",
+    "mongoose": "^6.2.1",
+    "nodemailer": "^6.7.2",
+    "uuid": "^8.3.2",
+    "uuid-validate": "^0.0.3"
+  },
+  "name": "diary",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "kannangr21",
+  "license": "ISC",
+  "description": "",
+  "engines": {
+    "node": "17.4"
+  }
+}
